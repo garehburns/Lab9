@@ -1,0 +1,171 @@
+DATE: 11/07/19       STUDENT REPORT           EJR          PAGE  1
+
+     DEPARTMENT CODE          COMP
+
+          CLASS CODE  CS201
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+
+       Jon Jones                  080     070     100     090     B
+       Thomas Kazinski            080     075     082     099     B
+       Mark Jensen                070     072     075     071     C
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS201 IS     3
+
+          CLASS CODE  CS202
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Peter Jones                085     070     100     096     B
+       Sean Kazinski              082     075     082     092     B
+       Mark Jasper                099     072     075     044     C
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS202 IS     3
+
+          CLASS CODE  CS250
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Thomas Christopher         060     062     068     061     D
+       Judy Filletti              075     085     095     085     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS250 IS     2
+
+          CLASS CODE  CS350
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Thomas Christo             025     062     068     088     D
+       Harry Filletti             075     085     095     083     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS350 IS     2
+
+          CLASS CODE  CS491
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Buggs Bunny                080     090     095     070     B
+       Bill Gates                 040     042     043     045     F
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS491 IS     2
+
+          CLASS CODE  CS499
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Buggs Malone               080     090     095     074     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           CS499 IS     1
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      COMP IS     13
+
+     DEPARTMENT CODE          ENGL
+
+          CLASS CODE  EN101
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Sean Kazinski              090     092     093     082     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN101 IS     1
+
+          CLASS CODE  EN102
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       John Jones                 075     060     062     061     D
+       Magnolia Blossom           080     075     082     099     B
+       Snow White                 070     072     075     071     C
+       Magnolia Blossom           080     075     082     093     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN102 IS     4
+
+          CLASS CODE  EN103
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Thomas Kazinski            090     092     093     099     A
+       Thomas Christopher         080     082     083     085     B
+       Thomas Hopper              080     082     083     099     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN103 IS     3
+
+          CLASS CODE  EN104
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       John Jones                 075     060     062     099     C
+       Bride Drakea               070     072     075     061     D
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           EN104 IS     2
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      ENGL IS     10
+
+     DEPARTMENT CODE          MATH
+
+          CLASS CODE  MA101
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Bill Gates                 060     062     068     061     D
+       Steve Jobs                 080     090     095     070     B
+       Snow White                 040     042     043     045     F
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA101 IS     3
+
+          CLASS CODE  MA102
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Travis Gunter              100     100     100     100     A
+       James Mitchell             100     100     100     100     A
+       Mark Carswell              090     080     070     086     B
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA102 IS     3
+
+          CLASS CODE  MA103
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Judge Judy                 090     080     070     086     B
+       Donny Clark                080     060     085     090     C
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA103 IS     2
+
+          CLASS CODE  MA104
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Rose Budd                  090     060     030     080     D
+       Star Smith                 100     090     095     084     A
+       Magnolia Blossom           090     087     050     045     D
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA104 IS     3
+
+          CLASS CODE  MA112
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Travis Lamar               100     100     100     100     A
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA112 IS     1
+
+          CLASS CODE  MA250
+
+                   NAME          SCORE   SCORE   SCORE   SCORE   GRADE
+       Steven Tyler               100     090     099     098     A
+       Harry Potter               075     085     074     070     C
+       Anne Rice                  082     083     084     085     B
+       Steven Smith               100     090     099     091     A
+
+
+TOTAL NUMBER OF STUDENTS FOR CLASS           MA250 IS     4
+
+
+TOTAL NUMBER OF STUDENTS FOR DEPARTMENT      MATH IS     16
+
+
+TOTAL STUDENTS FOR ALL DEPARTMENTS IS                    39
